@@ -26,7 +26,7 @@ Screenshots of the landing page:
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [Optional: Bootstrap or Tailwind for styling]
+
 
 ## How to Run
 1. Clone the repository:
