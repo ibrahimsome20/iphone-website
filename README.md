@@ -16,10 +16,10 @@ Perfect for learning HTML, CSS, JavaScript, and building visually appealing prod
 ## Screenshots
 Screenshots of the landing page:
 
-![iPhone Landing Page 1](./Screenshot/one.png)
-![iPhone Landing Page 2](./Screenshot/two.png)
-![iPhone Landing Page 2](./Screenshot/three.png)
-![iPhone Landing Page 2](./Screenshot/four.png)
+![iPhone Landing Page 1](./Screenshoot/one.png)
+![iPhone Landing Page 2](./Screenshoot/two.png)
+![iPhone Landing Page 2](./Screenshoot/three.png)
+![iPhone Landing Page 2](./Screenshoot/four.png)
 
 
 ## Technologies Used
